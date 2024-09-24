@@ -3,9 +3,7 @@
 [![MasterHead](https://raw.githubusercontent.com/gist/ManulMax/8e688352aa10eefee7aae7bf05b8020f/raw/038151775bdcfb3eabb6830bca3497468bf234d5/welcome%20to%20github.gif)](https://waad_amer.io)
 
 <h1 align="center">Hi 👋, I'm Waad Amer</h1>
-<h3 align="center"> <p>I'm a third-year Computer Systems Engineering student At Palestine Technical University - Kadoorie.💻</p>
-        <p>I have experience in web development and data analysis using Python 💪💻.</p>
-        <p>I'm always eager to learn new skills and enhance my technical expertise.</p></h3>
+<h3 align="center">web development beginner baby steps</h3>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
