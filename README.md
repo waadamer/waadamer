@@ -7,7 +7,7 @@
         <p>I have experience in web development and data analysis using Python 💪💻.</p>
         <p>I'm always eager to learn new skills and enhance my technical expertise.</p>
     </div>
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding GIF" style="width: 200; height: auto; margin-left: 20;" />
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding GIF" style="width: 200px; height: auto; margin-left: 20px;" />
 </div>
 
 ## 🌐 Socials:
