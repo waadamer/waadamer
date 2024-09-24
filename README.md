@@ -48,10 +48,10 @@
 </p>
   
 <br/><br/><br/>
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" style="margin: auto;" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waadamer&theme=dark&hide_border=true" alt="waadamer" />
 </div>
-
 
 
 
