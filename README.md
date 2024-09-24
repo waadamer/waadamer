@@ -48,17 +48,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 </p>
-<div style="display: flex; justify-content: center; gap: 20px;">
     <div>
         <h3 align="center">📊 GitHub Stats:</h3>
-        <div style="height: 200px; display: flex; justify-content: center; align-items: center;">
+        <div >
             <img src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&locale=en" alt="waadamer" style="max-height: 100%; max-width: 100%;" />
         </div>
-        <div style="height: 200px; display: flex; justify-content: center; align-items: center;">
+        <br/><br/><br/>
+        <div >
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" style="max-height: 100%; max-width: 100%;" />
         </div>
     </div>
-</div>
 
 
 
