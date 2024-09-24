@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Waad Amer</h1>
 <h3 align="center">web development beginner baby steps</h3>
-
+<br/><br/><br/><br/>
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
     <div>
