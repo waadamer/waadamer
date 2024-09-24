@@ -48,9 +48,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 </p>
-   
+   <br/><br/><br/>
  <div >
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" style="max-height: 100%; max-width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" style="max-height: 100%; max-width: 100%; justify-content: center;" />
 </div>
 
 
