@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/top_header.svg" />
 
 <h1 align="center">Hi 👋, I'm Waad Amer</h1>
 <h3 align="center">web development beginner baby steps</h3>
