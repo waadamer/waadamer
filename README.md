@@ -14,7 +14,7 @@
         <p>I'm always eager to learn new skills and enhance my technical expertise.</p>
     </div>
 </div>
-<br/><br/>
+<br/><br/><br/><br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=waadamer&label=Profile%20views&color=0e75b6&style=flat" alt="waadamer" /> </p>
 
 <h3 align="center">Connect with me:</h3>
