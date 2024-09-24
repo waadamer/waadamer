@@ -53,7 +53,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=waadamer&theme=dark&hide_border=true" alt="waadamer" />
 </div>
 
-
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact&theme=dark" alt="waadamer" />
+   
 
 
 
