@@ -48,13 +48,16 @@
 </p>
   
 <br/><br/><br/>
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&theme=dark" alt="waadamer" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waadamer&theme=dark" alt="waadamer" />
-</div>
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&theme=dark" alt="waadamer" />
-</div>
+
+
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&theme=dark"  />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&theme=dark" /></p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+
 
 
 
