@@ -51,10 +51,15 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
     <div>
         <h3 align="center">📊 GitHub Stats:</h3>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&locale=en" alt="waadamer" style="max-height: 200px; object-fit: contain;" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" style="max-height: 200px; object-fit: contain;" />
+        <div style="height: 200px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&locale=en" alt="waadamer" style="max-height: 100%; max-width: 100%;" />
+        </div>
+        <div style="height: 200px; display: flex; justify-content: center; align-items: center;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" style="max-height: 100%; max-width: 100%;" />
+        </div>
     </div>
 </div>
+
 
 
 
