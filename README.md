@@ -50,11 +50,11 @@
 </p>
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-    <div>
+<div>
         <h3 align="center">📊 GitHub Stats:</h3>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&locale=en" alt="waadamer" />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waadamer&" alt="waadamer" />
-    </div>
+ </div>
 
     
 </div>
