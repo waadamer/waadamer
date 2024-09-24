@@ -50,7 +50,7 @@
 </p>
    <br/><br/><br/>
  <div style="display: flex; justify-content: flex-end;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" style="max-height: 100%; max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer"  />
 </div>
 
 
