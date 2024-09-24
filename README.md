@@ -28,8 +28,7 @@
 <a href="https://instagram.com/waadamer19" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waadamer" height="30" width="40" />
 </a>
-</p>
-
+    
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -52,6 +51,8 @@
 </a>
 </p>
   
+</p>
+
 <br/><br/>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&theme=dark"  />
