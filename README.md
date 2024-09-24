@@ -48,11 +48,9 @@
 </p>
   
 <br/><br/><br/>
-
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" style="margin: auto;" />
 </div>
-
 
 
 
