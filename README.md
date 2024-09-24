@@ -2,9 +2,9 @@
 I'm a third-year Computer Systems Engineering student At Palestine Technical University - Kadoorie.💻 <br>I have experience in web development and data analysis using Python 💪💻. <br>I'm always eager to learn new skills and enhance my technical expertise.<br><br><br><br><br><br><br>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/waadamer)
+[![Facebook](https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Waad-amer)
 [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/waadamer19)
-[![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waedamer)
+[![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Waed-Amer)
 
 
 # 💻 Tech Stack:
