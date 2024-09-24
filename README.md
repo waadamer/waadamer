@@ -6,7 +6,7 @@
 <br/>
 <br/>
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
+    <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
     <div>
         <h3>💫 About Me:</h3>
         <p>I'm a third-year Computer Systems Engineering student At Palestine Technical University - Kadoorie.💻</p>
