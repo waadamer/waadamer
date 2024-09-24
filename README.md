@@ -1,5 +1,3 @@
-
-
 [![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)](https://waad_amer.io)
 
 <h1 align="center">Hi 👋, I'm Waad Amer</h1>
@@ -48,11 +46,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
 </p>
-   <br/><br/><br/>
-   <br/><br/><br/>
-   <br/><br/><br/>
- <div style="display: flex; justify-content: flex-end;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer"  />
+  
+<br/><br/><br/>
+
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" />
 </div>
 
 
