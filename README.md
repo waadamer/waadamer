@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
     <div>
@@ -14,7 +14,7 @@
         <p>I'm always eager to learn new skills and enhance my technical expertise.</p>
     </div>
 </div>
-
+<br/><br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=waadamer&label=Profile%20views&color=0e75b6&style=flat" alt="waadamer" /> </p>
 
 <h3 align="center">Connect with me:</h3>
