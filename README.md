@@ -55,18 +55,17 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&locale=en" alt="waadamer" />
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waadamer&" alt="waadamer" />
     </div>
-    
+
     <div>
         <h3 align="center">🔝 Top Languages:</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" />
     </div>
-    
+
     <div>
         <h3 align="center">✍️ Random Dev Quote:</h3>
         <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random-dev-quote" />
     </div>
 </div>
-
 
 
 
