@@ -53,7 +53,7 @@
 <div>
         <h3 align="center">📊 GitHub Stats:</h3>
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&locale=en" alt="waadamer" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&layout=compact" alt="waadamer"  style="margin-top:30px"/>
 </div>
 </div>
 
