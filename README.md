@@ -57,7 +57,7 @@
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&theme=dark"  />
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&theme=dark" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
