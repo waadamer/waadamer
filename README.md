@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third-year Computer Systems Engineering student At Palestine Technical University - Kadoorie. <br>I have experience in web development and data analysis using Python 💪💻. <br>and I am always eager to learn new skills and enhance my technical expertise."<br><br><br><br><br><br><br>
+I'm a third-year Computer Systems Engineering student At Palestine Technical University - Kadoorie. <br>I have experience in web development and data analysis using Python 💪💻. <br>I'm always eager to learn new skills and enhance my technical expertise."<br><br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
