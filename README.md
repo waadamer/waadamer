@@ -1,3 +1,4 @@
+<img src="https://camo.githubusercontent.com/daa279ca78be42b310b9d7d7ea35f996418037e6fc81a54fc91ce6732e7f2e9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572" align="center" />
 
 <h1 align="center">Hi 👋, I'm Waad Amer</h1>
 <h3 align="center">web development beginner baby steps</h3>
@@ -48,16 +49,11 @@
   
 <br/><br/><br/>
 
-
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&theme=dark"  />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&theme=dark" /></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-
-
-
 
 
    
