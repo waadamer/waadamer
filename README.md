@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/daa279ca78be42b310b9d7d7ea35f996418037e6fc81a54fc91ce6732e7f2e9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572" align="center" />
 
 <h1 align="center">Hi 👋, I'm Waad Amer</h1>
-<br/><br/><br/><br/>
+<br/><br/>
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
     <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
     <div>
@@ -49,7 +49,7 @@
 </a>
 </p>
   
-<br/><br/><br/>
+<br/><br/>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&theme=dark"  />
 
