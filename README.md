@@ -2,7 +2,8 @@
 
 # 💫 About Me:
 I'm a third-year Computer Systems Engineering student At Palestine Technical University - Kadoorie.💻 <br>I have experience in web development and data analysis using Python 💪💻. <br>I'm always eager to learn new skills and enhance my technical expertise.<br><br><br><br>
-![Welcome](https://raw.githubusercontent.com/gist/ManulMax/8e688352aa10eefee7aae7bf05b8020f/raw/038151775bdcfb3eabb6830bca3497468bf234d5/welcome%20to%20github.gif)
+
+[![Developer](https://media.giphy.com/media/l4FGGzCq8nDbou3S0/giphy.gif)](https://waad_amer.io)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082837215663) 
