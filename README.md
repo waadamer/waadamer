@@ -19,8 +19,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/waed-amer-b57097296/?fbclid=IwZXh0bgNhZW0CMTAAAR15uMZ-iLjNUvYpeiJBhOKa3wdCwNJcn-3MK3ql40JFFia1IQiAWGuKAZw_aem_aoHRit7XDd0yH518B-BM5A" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waed-amer" height="30" width="40" />
+<a href="https://www.linkedin.com/in/waad-amer-b57097296/?fbclid=IwZXh0bgNhZW0CMTAAAR15uMZ-iLjNUvYpeiJBhOKa3wdCwNJcn-3MK3ql40JFFia1IQiAWGuKAZw_aem_aoHRit7XDd0yH518B-BM5A" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waad-amer" height="30" width="40" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100082837215663" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waadamer" height="30" width="40" />
