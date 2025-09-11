@@ -9,8 +9,9 @@
     <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
     <div>
         <h3>💫 About Me:</h3>
-        <p>I'm a third-year Computer Systems Engineering student At Palestine Technical University - Kadoorie.💻</p>
-        <p>I have experience in web development and data analysis using Python 💪💻.</p>
+        <p>I'm a Fourth-year Computer Systems Engineering student At Palestine Technical University - Kadoorie.💻</p>
+        <p>I have experience in web development (Frontend & Backend). ⚙️</p>
+        <p>I also have experience in data analysis using <strong>Python</strong> 📊.</p>       
         <p>I'm always eager to learn new skills and enhance my technical expertise.</p>
     </div>
 </div>
@@ -53,6 +54,18 @@
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> 
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
 </p>
 
