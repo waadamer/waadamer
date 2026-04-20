@@ -1,86 +1,105 @@
+<!-- Enhanced GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Waad Amer</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4682B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" />
-</p>
-<br/>
-<br/>
-<br/>
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
-    <div>
-        <h3>💫 About Me:</h3>
-        <p>I'm a Fourth-year Computer Systems Engineering student At Palestine Technical University - Kadoorie.💻</p>
-        <p>I have experience in web development (Frontend & Backend). ⚙️</p>
-        <p>I also have experience in data analysis using <strong>Python</strong> 📊.</p>       
-        <p>I'm always eager to learn new skills and enhance my technical expertise.</p>
-    </div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=48&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B+I'm+Waad+Amer;Computer+Systems+Engineer;Full+Stack+Developer;Data+Analysis+Enthusiast" />
 </div>
-<br/><br/><br/><br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=waadamer&label=Profile%20views&color=0e75b6&style=flat" alt="waadamer" /> </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/waad-amer-b57097296/?fbclid=IwZXh0bgNhZW0CMTAAAR15uMZ-iLjNUvYpeiJBhOKa3wdCwNJcn-3MK3ql40JFFia1IQiAWGuKAZw_aem_aoHRit7XDd0yH518B-BM5A" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waad-amer" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100082837215663" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waadamer" height="30" width="40" />
-</a>
-<a href="https://instagram.com/waadamer19" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waadamer" height="30" width="40" />
-</a>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/> 
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-</p>
+---
 
-  
-</p>
+## 🌟 About Me
 
-<br/><br/>
+<table>
+  <tr>
+    <td width="55%">
+      <h3>💫 Who I Am</h3>
+      <p>
+        <strong>4th Year Computer Systems Engineering</strong> student at Palestine Technical University - Kadoorie 🎓
+      </p>
+      <p>
+        Passionate about building <strong>scalable web applications</strong> with modern technologies and clean code practices. I love turning complex problems into elegant solutions.
+      </p>
+      <h3>🛠️ What I Do</h3>
+      <ul>
+        <li><strong>Full-Stack Development:</strong> Frontend & Backend web applications</li>
+        <li><strong>Data Analysis:</strong> Python-based data processing and visualization</li>
+        <li><strong>UI/UX Design:</strong> Creating beautiful and responsive interfaces</li>
+        <li><strong>Problem Solving:</strong> Always eager to learn and enhance my skills</li>
+      </ul>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="coding" width="280" style="border-radius: 20px; box-shadow: 0 20px 50px rgba(59, 130, 246, 0.3);" />
+    </td>
+  </tr>
+</table>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&show_icons=true&locale=en&theme=dark"  />
+---
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&theme=dark" />
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## 🚀 Tech Stack
 
-</p>
+<div align="center">
 
+### **Languages**
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.w3schools.com/cpp/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/)
+
+### **Frontend**
+[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Material-UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=materialui&logoColor=white)](https://mui.com/)
+
+### **Backend & Database**
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/waadamer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=waadamer&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=8B949E&border_radius=10" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/waadamer">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waadamer&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E&border_radius=10&count_private=true" alt="GitHub Stats" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=waadamer&theme=dark&background=0D1117&border=30B0C0&stroke=3B82F6&ring=3B82F6&fire=FF6B6B&sideLabels=30B0C0&currStreakLabel=3B82F6&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/waad-amer-b57097296/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100082837215663" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/waadamer19" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=waadamer&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <sub>🌍 Palestine Technical University - Kadoorie | Based in Nablus, Palestine</sub>
+</div>
