@@ -101,5 +101,5 @@
 </div>
 
 <div align="center">
-  <sub>🌍 Palestine Technical University - Kadoorie | Based in Tulkarem, Palestine</sub>
+  <sub>🌍 Palestine Technical University - Kadoorie | Based in Tulkrem, Palestine</sub>
 </div>
